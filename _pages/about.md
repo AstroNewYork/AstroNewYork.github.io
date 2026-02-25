@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Astronomical Society of New York"
-excerpt: "Home"
+title: "About the Astronomical Society of New York"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
