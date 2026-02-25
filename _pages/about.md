@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A Rhode Island Universe"
+title: "Astronomical Society of New York"
 excerpt: "Home"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Providence from Prospect Terrace](../images/pvdpano.JPG)
 
-Welcome -- I am Joe Ribaudo and this is a Rhode Island Universe! I live in the city of Providence and I work at Providence College in the Department of Engineering and Physics. If you want to learn about physics, astrophysics, 19th and 20th century science history, or Rhode Island, you have come to the right place! Currently overhauling the entire site, so nothing works at the moment. Look for updates in 2026...
+The Astronomical Society of New York (or ASNY as we like to call it) supports astronomy initiatives across the State of New York. If you have any questions please contact the current ASNY Secretary - Joseph Ribaudo (see People for details).
+​
+Thanks - and enjoy!
