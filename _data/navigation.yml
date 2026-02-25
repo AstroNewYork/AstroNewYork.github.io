@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
+  - title: "About"
+    url: /about/
 
-  #- title: "Talks"
-  #  url: /talks/
+  - title: "People"
+    url: /people/
 
-  - title: "Teaching"
-    url: /teaching2/
+  - title: "Institutions"
+    url: /institutions/
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  - title: "People"
+    url: /people/
         
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Meetings"
+    url: /meetings/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Prizes"
+    url: /prizes/
     
-  - title: "Rhode Island Adventures"
-    url: /ri_adventures/
+  - title: "More"
+    url: /more/
