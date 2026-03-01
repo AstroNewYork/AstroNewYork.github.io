@@ -8,8 +8,8 @@ author_profile: true
 ASNY encourages student participation at our meetings and we are proud to support early career 
 astronomers. Historically, ASNY has funded prizes for the best research paper submitted (at both 
 the undergraduate and graduate student level). Students awarded the prize would then give an invited
-talk at the next ASNY science meeting. For a variety of reasons, we have experimented with a  
-presentation prize model in recent years and we continue to consider the best mechanism to support
+talk at the next ASNY science meeting. For a variety of reasons, we have experimented with a presentation 
+prize model in recent years and we continue to consider the best mechanism to support 
 student participation. The 2025 prizes were awarded for best poster presentation at the meeting. 
 
 If we return to considering paper submissions, the general details are below:
