@@ -19,4 +19,4 @@ The New York Astronomical Corporation (NYAC) was formed in 1968 by astronomers a
 
 **Today (2026)**
 
-ASNY continues to hold meetings every Fall at one of the Member or Associate Member Institutions in the Capital Region (U Albany, RPI, Union College, Siena College, or Skidmore College). Spring meetings are held based on the availability of a host institution. The most recent Spring meeting of ASNY was held at Cornell University in 2025.
+ASNY continues to hold meetings every Fall at one of the Member Institutions in the Capital Region (U Albany, RPI, Union College, Siena College, or Skidmore College). Spring meetings are held based on the availability of a host institution. The most recent Spring meeting of ASNY was held at Cornell University in 2025.
