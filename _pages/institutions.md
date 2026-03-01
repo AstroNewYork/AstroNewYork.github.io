@@ -4,7 +4,7 @@ title: "Institutions of ASNY"
 author_profile: true
 
 ---
-| Full Members | Associate Members |
+| Members | Associate Members |
 | ----------- | ----------- |
 | American Museum of Natural History | Alfred University |
 | Columbia University | Bard College |
