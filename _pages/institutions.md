@@ -4,25 +4,28 @@ title: "Institutions of ASNY"
 author_profile: true
 
 ---
+| Full Members | Associate Members |
+| ----------- | ----------- |
+| American Museum of Natural History | Alfred University |
+| Columbia University | Bard College |
+| Cornell University | Clarkson University |
+| New York University | Colgate University |
+| Rensselaer Polytechnic Institute | College of Staten Island CUNY |
+| Rochester Institute of Technology | Dudley Observatory |
+| SUNY Albany | Hartwick College |
+| SUNY Stony Brook | Hobart & William Smith |
+| University of Rochester | Hofstra University |
+|  | Le Moyne College |
+|  | St. Lawrence University |
+|  | Siena College |
+|  | Skidmore College |
+|  | Suffolk County Community College |
+|  | SUNY Cortland |
+|  | SUNY Fredonia |
+|  | SUNY Geneseo |
+|  | SUNY New Paltz |
+|  | SUNY Oneonta |
+|  | Union College |
+|  | Vassar College |
 
-<div class="row">
-  <div class="col-md-6">
-    <!-- Content for the first column goes here -->
-    ### Full Members
-    American Museum of Natural History
-    Columbia University
-    Cornell University
-    New York University
-    Rensselaer Polytechnic Institute
-    Rochester Institute of Technology
-    SUNY Albany
-    SUNY Stony Brook
-    University of Rochester
-  </div>
-  <div class="col-md-6">
-    <!-- Content for the second column goes here -->
-    ### Associate Members
-    Some text for the second column.
-  </div>
-</div>
 
