@@ -1,11 +1,9 @@
 ---
-permalink: /
+permalink: /home/
 title: "The Astronomical Society of New York"
 excerpt: "Home"
 author_profile: true
-redirect_from: 
-  - /home/
-  - /home.html
+
 ---
 
 
