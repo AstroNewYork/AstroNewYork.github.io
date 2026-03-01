@@ -5,10 +5,11 @@ author_profile: true
 
 ---
 
-**Fall 2025 ASNY Meeting (October 25, 2025)**
-*Skidmore College*
-Science Program 
-Meeting Webpage
+|**Fall 2025 ASNY Meeting (October 25, 2025)**|
+|---------------------------------------------|
+|*Skidmore College*|
+|Science Program|
+|Meeting Webpage|
 
 **Spring 2025 ASNY Meeting (March 29, 2025)** 
 *Cornell University*
