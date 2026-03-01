@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "ASNY"
   avatar           : "asny_original_logo_modern.pdf"
-  bio              : "Organization supporting professional and academic astronomy pursuits across the State of New York and beyond."
+  bio              : "A branch of the New York Astronomical Corporation which supports 
+                      professional and academic astronomy pursuits across the State of New York and beyond. 
+                      The New York Astronomical Corporation is a 501(c)3 non-profit organization."
   location         :
   employer         : #"Providence College"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
