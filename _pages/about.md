@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 title: "About the Astronomical Society of New York"
-excerpt: "About"
 author_profile: true
 
 ---
