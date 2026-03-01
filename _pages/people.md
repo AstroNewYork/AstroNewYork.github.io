@@ -7,11 +7,11 @@ author_profile: true
 | Officers and Executive Committee |  |
 | ----------- | ----------- |
 | **Chairperson** | Charles Liu, CUNY-CSI (2021-2024) |
-| **Vice Chairperson** | Phil Nicholson, Cornell (2020-2023) |
-| **Treasurer** | Aileen O'Donoghue, St. Lawrence (2022-2025) |
-| **Secretary** | Joseph Ribaudo, Providence (2022-2025) |
+| **Vice Chairperson** | Phil Nicholson, Cornell University (2020-2023) |
+| **Treasurer** | Aileen O'Donoghue, St. Lawrence University (2022-2025) |
+| **Secretary** | Joseph Ribaudo, Providence College mailto:jribaudo@providence.edu (2022-2025) |
 | **Member** | Cecilia Levy, U Albany (2023-2026) |
-| **Member** | Mary Crone Odekon, Skidmore (2023-2026) |
+| **Member** | Mary Crone Odekon, Skidmore College (2023-2026) |
 
 
 | Member Institutions | ASNY Representative |
