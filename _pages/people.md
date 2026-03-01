@@ -17,34 +17,33 @@ author_profile: true
 | Member Institutions | ASNY Representative |
 | ----------- | ----------- |
 | **American Museum of Natural History** | Jackie Faherty |
-| Columbia University | Joseph Patterson |
-| Cornell University | Dongwoo Chung |
-| New York University | Michael Blanton |
-| Rensselaer Polytechnic Institute | Charles Martin |
-| Rochester Institute of Technology | Joel Kastner |
-| SUNY Stony Brook | Fred Walter |
-| SUNY Albany | Cecilia Levy |
-| University of Rochester | Dan Watson |
+| **Columbia University** | Joseph Patterson |
+| **Cornell University** | Dongwoo Chung |
+| **Rensselaer Polytechnic Institute** | Charles Martin |
+| **Rochester Institute of Technology** | Joel Kastner |
+| **SUNY Stony Brook** | Fred Walter |
+| **SUNY Albany** | Cecilia Levy |
+| **University of Rochester** | Dan Watson |
 
 | Associate Member Institutions | ASNY Representative |
 | ----------- | ----------- |
 | **Alfred University** | Josh Thomas |
-| Bard College | Antonios Kontos |
-| Clarkson University | Benjamin Roulston |
-| Colgate University | Tom Balonek |
-| College of Staten Island CUNY | Charles Liu |
-| Dudley Observatory | Mindy Townsend |
-| Hartwick College | Parker Troischt |
-| Hobart & William Smith College | Leslie Hebb |
-| Hofstra University | Christina Lacey |
-| Le Moyne College | Christopher Bass |
-| St. Lawrence University | Aileen O'Dononghue |
-| Siena College | Rose Finn |
-| Skidmore College | Mary Crone Odekon |
-| SUNY Cortland | Melissa Morris |
-| SUNY Fredonia | |
-| SUNY Geneseo | Aaron Steinhauer |
-| SUNY New Paltz | Amy Bartholomew |
-| SUNY Oneonta | Valerie Rapson |
-| Union College | Rebecca Koopmann |
-| Vassar College | Colette Salyk |
+| **Bard College** | Antonios Kontos |
+| **Clarkson University** | Benjamin Roulston |
+| **Colgate University** | Tom Balonek |
+| **College of Staten Island CUNY** | Charles Liu |
+| **Dudley Observatory** | Mindy Townsend |
+| **Hartwick College** | Parker Troischt |
+| **Hobart & William Smith College** | Leslie Hebb |
+| **Hofstra University** | Christina Lacey |
+| **Le Moyne College** | Christopher Bass |
+| **St. Lawrence University** | Aileen O'Dononghue |
+| **Siena College** | Rose Finn |
+| **Skidmore College** | Mary Crone Odekon |
+| **SUNY Cortland** | Melissa Morris |
+| **SUNY Fredonia** | |
+| **SUNY Geneseo** | Aaron Steinhauer |
+| **SUNY New Paltz** | Amy Bartholomew |
+| **SUNY Oneonta** | Valerie Rapson |
+| **Union College** | Rebecca Koopmann |
+| **Vassar College** | Colette Salyk |
