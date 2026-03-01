@@ -1,7 +1,6 @@
 ---
 permalink: /institutions/
 title: "Institutions of ASNY"
-excerpt: "Institutions"
 author_profile: true
 
 ---
