@@ -35,7 +35,7 @@ check for $500 when the Prize lecture is delivered.
 **Past Prize Winners**
 
 | **Graduate Prize** | **Undergraduate Prize** |
-|----------------------------------------------|
+|------------------|---------------------|
 | 2025 - Shwetha Prakash and Selina Yang, Cornell | 2025 - Keith Pritchett, Siena |
 | 2025 - Ryan Butler, RIT | 2025 - Jacob Yuzovitskiy, CUNY CSI |
 |  | 2022 - Jillian Paulin, Colgate |
