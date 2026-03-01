@@ -9,12 +9,12 @@ author_profile: true
 | American Museum of Natural History | Alfred University |
 | Columbia University | Bard College |
 | Cornell University | Clarkson University |
-| New York University | Colgate University |
-| Rensselaer Polytechnic Institute | College of Staten Island CUNY |
-| Rochester Institute of Technology | Dudley Observatory |
-| SUNY Albany | Hartwick College |
-| SUNY Stony Brook | Hobart & William Smith |
-| University of Rochester | Hofstra University |
+| Rensselaer Polytechnic Institute | Colgate University |
+| Rochester Institute of Technology | College of Staten Island CUNY |
+| SUNY Albany | Dudley Observatory |
+| SUNY Stony Brook | Hartwick College |
+| University of Rochester | Hobart & William Smith |
+|  | Hofstra University |
 |  | Le Moyne College |
 |  | St. Lawrence University |
 |  | Siena College |
